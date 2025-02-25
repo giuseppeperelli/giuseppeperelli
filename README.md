@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page!
 
-- I am <em>Assistant Professor</em> ([RTD-B](https://academicpositions.com/career-advice/italian-academic-job-titles)) at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
+- I am **Associate Professor** at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
 - Email me: perelli@di.uniroma1.it
 - My Website: https://giuseppeperelli.github.io/
 
